@@ -245,4 +245,4 @@ This is a **production-like** teaching example of a firewall engine. For actual 
 
 ---
 
-**Built with 💙 for network security enthusiasts**
+**Built with for network security enthusiasts**
